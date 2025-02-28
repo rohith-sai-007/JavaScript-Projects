@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+#gallery{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+}
+
+#gallery > div{
+    border: 1px solid black;
+    align-content: center;
+    color: white;
+    width: 200px;
+    height: 90px;
+    margin: 10px;
+}
