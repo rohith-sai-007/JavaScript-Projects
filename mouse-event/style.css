@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#xcoord{
+    height: 50px;
+    width: 90px;
+    border: 1px solid black;
+}
+
+#ycoord{
+    height: 50px;
+    width: 90px;
+    border: 1px solid black;
+}
