@@ -1,0 +1,12 @@
+body{
+  background-color: #FFFF00;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin:300px;
+}
+
+.work-container{
+  margin-left: 100px;
+}
